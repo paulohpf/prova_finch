@@ -1,0 +1,26 @@
+@media (max-width: 420px) {
+
+	/*Footer*/
+
+	.footer .copyright, .footer .socialmedia {
+		float: none;
+	}
+
+	.footer .socialmedia {
+		margin: 10px auto 0; 
+	}
+
+	.about .insights .column {
+		text-align: center;
+	}
+
+	.about .insights .column img {
+		float: none;
+		display: inline-block;
+	}
+
+	.about .insights .column .title, .about .insights .column .detail {
+		display: inline-block;
+	}
+
+}

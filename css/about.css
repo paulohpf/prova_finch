@@ -1,0 +1,23 @@
+.about .container.secondary .intro {
+	margin-bottom: 50px;
+	font-weight: 600;
+}
+
+.about .container.secondary .solutions {
+	text-align: center;
+	margin: 50px auto;
+}
+
+.about .container.secondary .solutions .intro {
+	margin: 20px 0;
+}
+
+.about .insights {
+	padding: 20px 0;
+	background: #f0f0f0;
+}
+
+.about .insights .column img {
+	float: left;
+	padding-right: 10px;
+}

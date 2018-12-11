@@ -1,0 +1,12 @@
+
+.clients {
+	background: #5a546c;
+}
+
+.clients .title, .clients .text {
+	color: #fff !important;
+}
+
+.clients .container.secondary {
+	margin: 50px auto;
+}

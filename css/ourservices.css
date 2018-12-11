@@ -1,0 +1,75 @@
+.services .container.secondary .servicename {
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.services .container.secondary .servicename:after {
+	content: '';
+	display: block;
+	width: 80px;
+	height: 1px;
+	border-bottom: 1px solid #dfdfdf;
+}
+
+.services .container.secondary .column img {
+	float: left;
+	padding-right: 10px;
+}
+
+.services .third.recommendation {
+	margin: 30px 0 0;
+	background: linear-gradient(to right, #9c1c46, #483b7d);
+    padding: 30px 0;
+    position: relative;
+}
+
+.services .third.recommendation .container {
+	position: relative;
+}
+
+.services .third.recommendation .text {
+	font-size: 1.5em;
+	color: #fff;
+	text-align: center;
+	display: block;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px 0;
+    position: relative;
+}
+
+.services .third.recommendation .text:before {
+	content: '';
+	background: url('/images/aspas_direita.png');
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 59px;
+	height: 44px;
+}
+
+.services .third.recommendation .text:after {
+	content: '';
+	background: url('/images/aspas_esquerda.png');
+	position: absolute;
+	bottom: : 0;
+	right: 0;
+	width: 59px;
+	height: 44px;
+}
+
+.services .third.recommendation .author:before {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 1px;
+    border-bottom: 1px solid #fff;
+    margin: 0 auto 15px;
+}
+
+.services .third.recommendation .author {
+	font-size: 1.2em;
+	color: #fff;
+	text-align: center;
+	display: block;
+}

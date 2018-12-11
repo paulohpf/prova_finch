@@ -1,0 +1,17 @@
+.footer {
+	color: #878787;
+	padding: 1.5rem 1.5rem;
+}
+
+.footer .copyright {
+	float: left;
+}
+
+.footer .socialmedia {
+	float: right;
+}
+
+.footer .socialmedia a {
+	color: #878787;
+	padding-left: 10px;
+}

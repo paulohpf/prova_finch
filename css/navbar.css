@@ -1,0 +1,21 @@
+nav.navbar.mainnavigation {
+	border-bottom: 1px solid #dfdfdf; 
+}
+
+nav.navbar.mainnavigation .navbar-start {
+	margin: auto;
+}
+
+nav.navbar.mainnavigation .navbar-item {
+	padding: .5rem 1.5rem ;
+}
+
+nav.navbar.mainnavigation .navbar-item a {
+	color: #c0c0c0;
+}
+
+nav.navbar.mainnavigation.sticky {
+	width: 100%;
+	position: fixed;
+	top: 0;
+}

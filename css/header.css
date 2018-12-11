@@ -1,0 +1,31 @@
+header {
+	padding: 50px 0;
+	background: linear-gradient(to right, #4258a8 , #3c2256);
+}
+
+header .container.logo:before {
+	content: '';
+	width: 380px;
+	height: 250px;
+	display: block;
+	background: url('/images/stroke.png') no-repeat;
+	float: left;
+}
+
+header .container.logo:after {
+	content: '';
+	display: block;
+	background: url('/images/rechthoek.png') no-repeat;;
+	width: 392px;
+	height: 85px;
+	float: right;
+}
+
+header .container.secondary .arrow:after {
+	content: '';
+	display: block;
+	width: 32px;
+	height: 66px;
+	margin: auto;
+	background: url('/images/arrow.png') no-repeat;
+}

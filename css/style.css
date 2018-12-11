@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,800,800i');
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+* {
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: border-box;
+	font-size: 14px;
+	overflow: hidden;
+}
+
+h3 {
+	font-size: 1.17em;
+}
+
+.title {
+	font-weight: 700;
+	margin: 0 !important;
+}
+
+.container.primary {
+	margin: 50px auto;
+}
+
+.container.primary .text {
+	font-size: 1.3rem;
+	color: #979797;
+}
+
+.container.primary:after {
+	content: '';
+	display: block;
+	width: 100px;
+	height: 1px;
+	border-bottom: 1px solid #dfdfdf;
+	margin: 15px auto 0;
+}
+
+.red {
+	font-size: inherit;
+	color: #e61757;
+}

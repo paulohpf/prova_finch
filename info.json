@@ -1,0 +1,94 @@
+{
+	"about": {
+		"intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Vulputate, Vehicula nisi vitae, lobortis ante. Paresent sodales iaculis ultricies",
+		"itens": [{
+			"image": "/images/paint.png",
+			"intro": "Some fancy <span class=\"red\">colors</span>",
+			"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+		}, {
+			"image": "/images/coffe.png",
+			"intro": "Enough <span class=\"red\">coffe breaks</span>",
+			"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+		}, {
+			"image": "/images/varinha.png",
+			"intro": "A little bit of <span class=\"red\">magic</span>",
+			"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+		}],
+		"insights": [{
+				"image": "/images/coffe.png",
+				"number": "1085",
+				"text": "Empty cups"
+			},
+			{
+				"image": "/images/happyclients.png",
+				"number": "102",
+				"text": "Happy clients"
+			},
+			{
+				"image": "/images/bbq.png",
+				"number": "25",
+				"text": "BBQ meetings"
+			},
+			{
+				"image": "/images/cocktail.png",
+				"number": "29",
+				"text": "Cocktail parties"
+			}
+		],
+		"clients": {
+			"intro": "Some of out clients",
+			"detail": "We ♥ every single one",
+			"clients": [{
+					"image": "/images/mashable.png"
+				},
+				{
+					"image": "/images/vhdesign.png"
+				},
+				{
+					"image": "/images/mashable.png"
+				},
+				{
+					"image": "/images/vhdesign.png"
+				}
+			]
+		}
+	},
+	"ourservices": {
+		"services": [{
+				"image": "/images/laptop.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			},
+			{
+				"image": "/images/desk.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			},
+			{
+				"image": "/images/mobile.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			},
+			{
+				"image": "/images/desktop.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			},
+			{
+				"image": "/images/network.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			},
+			{
+				"image": "/images/window.png",
+				"title": "Dictum tincidunt diam",
+				"detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at purus vulputate, vehicula nisi vitae, lobortis ante."
+			}
+		],
+		"recomendation": {
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque hendrerit enim, non laoreet magna vulputate ac. Fusce imperdiet justo id diam tempus, sit amet malesuada arcu luctus. Sed tempor felis ex, vel interdum purus consequat vel.",
+			"author": "Jonathan Doe"
+
+		}
+	}
+}
