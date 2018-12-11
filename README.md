@@ -1,0 +1,1 @@
+Para executar basta apenas colocar os arquivos em um servidor web.
